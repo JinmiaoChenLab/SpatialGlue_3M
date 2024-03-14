@@ -1,6 +1,5 @@
 # Deciphering spatial domains from spatial multi-omics with SpatialGlue 
-This repository contains the script of SpatialGlue_3M, an extended version of SpatialGlue, tailored for integration of 
-<span style="font-size:20px; color:blue;">spatial triplet modality data</span>. 
+This repository contains the script of SpatialGlue_3M, an extended version of SpatialGlue, tailored for integration of spatial triplet modality data. 
 
 For the script of SpatialGlue, please refer to: [https://github.com/JinmiaoChenLab/SpatialGlue/tree/main](https://github.com/JinmiaoChenLab/SpatialGlue/tree/main)
 
