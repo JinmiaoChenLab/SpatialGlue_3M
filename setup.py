@@ -21,7 +21,7 @@ setup(
     author = __author__,
     author_email = __author_email__,
     license = __license__,
-    packages = ["SpatialGlue"],
+    packages = ["SpatialGlue_3M"],
     install_requires = __requires__,
     zip_safe = False,
     include_package_data = True,
