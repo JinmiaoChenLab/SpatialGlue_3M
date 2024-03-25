@@ -1,8 +1,8 @@
 import torch
 from tqdm import tqdm
 import torch.nn.functional as F
-from model import Encoder_overall
-from preprocess import adjacent_matrix_preprocessing
+from .model import Encoder_overall
+from .preprocess import adjacent_matrix_preprocessing
 
 class Train_SpatialGlue:
     def __init__(self, 
