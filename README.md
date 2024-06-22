@@ -6,7 +6,7 @@ For the script of SpatialGlue, please refer to: [https://github.com/JinmiaoChenL
 For the step-to-step tutorial of SpatialGlue, please refer to: [https://spatialglue-tutorials.readthedocs.io/en/latest/](https://spatialglue-tutorials.readthedocs.io/en/latest/)
  
 
-![](https://github.com/JinmiaoChenLab/SpatialGlue_3M/blob/main/SpatialGlue.jpg)
+![](https://github.com/JinmiaoChenLab/SpatialGlue_3M/blob/main/Workflow.jpg)
 
 ## Overview
 Integration of multiple data modalities in a spatially informed manner remains an unmet need for exploiting spatial multi-omics data. Here, we introduce SpatialGlue, a novel graph neural network with dual-attention mechanism, to decipher spatial domains by intra-omics integration of spatial location and omics measurement followed by cross-omics integration. We demonstrate that SpatialGlue can more accurately resolve spatial domains at a higher resolution across different tissue types and technology platforms, to enable biological insights into cross-modality spatial correlations. SpatialGlue is computation resource efficient and can be applied for data from various spatial multi-omics technological platforms, including Spatial-epigenome-transcriptome, Stereo-CITE-seq, SPOTS, and 10x Visium. Next, we will extend SpatialGlue to more platforms, such as 10x Genomics Xenium and Nanostring CosMx. 
